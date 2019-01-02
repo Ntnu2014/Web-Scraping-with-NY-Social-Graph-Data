@@ -1,5 +1,6 @@
 
 The data forms a natural social graph for New York's social elite.
+
 Link_1 = [New York Social Diary](http://www.newyorksocialdiary.com/)  
 Link_2 = [run-of-the-mill holiday party](http://www.newyorksocialdiary.com/party-pictures/2014/holiday-dinners-and-doers).
 
